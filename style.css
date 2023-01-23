@@ -1,0 +1,38 @@
+img{
+    width: 320px;
+    height: 300px;
+}
+.building_one{
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+}
+.building_two{
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+}
+.building_three{
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    
+}
+p{
+    color: #171717;
+    width: 346px;
+    height: 68px;
+}
+.text_one{
+    position: absolute;
+    top: 200px;
+}
+.text_two{
+    position: absolute;
+    top: 200px;
+    
+}
+.text_three{
+    position: absolute;
+    top: 200px;
+}
